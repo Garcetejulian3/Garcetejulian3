@@ -10,7 +10,7 @@
 
 ## **Sobre mí**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+
 
 - Apasionado desarrollador Backend con Java y Spring Boot  
 - Experiencia en construcción de APIs REST y manejo de bases de datos relacionales  
